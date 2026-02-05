@@ -1,0 +1,14 @@
+/* this is basic CSS
+/* you can change it, add to it, or delete it
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: white;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
